@@ -1,6 +1,6 @@
 ### react-slick
 
-[![Backers on Open Collective](https://opencollective.com/react-slick/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-slick/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/akiran/react-slick](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akiran/react-slick?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+_**This is a fork of [react-slick by Kiran Abburi](https://github.com/akiran/react-slick).**_
 
 ##### Carousel component built with React. It is a react port of [slick carousel](http://kenwheeler.github.io/slick/)
 
@@ -11,13 +11,7 @@
 **npm**
 
 ```bash
-npm install react-slick --save
-```
-
-**yarn**
-
-```bash
-yarn add react-slick
+npm install @maxmedia/react-slick --save
 ```
 
 **Also install slick-carousel for css and font**
@@ -100,13 +94,9 @@ For all available methods, go [here](https://react-slick.neostack.com/docs/api#m
 Want to run demos locally
 
 ```bash
-git clone https://github.com/akiran/react-slick
+git clone https://github.com/maxmedia/react-slick
 cd react-slick
 npm install
 npm start
 open http://localhost:8080
 ```
-
-## Contributing
-
-Please see the [contributing guidelines](./CONTRIBUTING.md)
